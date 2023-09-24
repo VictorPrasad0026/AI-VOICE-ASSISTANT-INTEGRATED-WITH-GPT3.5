@@ -1,0 +1,24 @@
+{
+    "commands": [
+        {
+            "command": "who is ananya",
+            "response": "Ananya is bada wala gandu."
+        },
+        {
+            "command": "what's the time",
+            "response": "The current time is {time}."
+        },
+        {
+            "command": "goodbye",
+            "response": "Goodbye! Have a nice day."
+        },
+        {
+            "command": "who I am",
+            "response": "you are my developer, mr. Rishabh Prasad"
+        },
+        {
+            "command": "who is Rishabh",
+            "response": "Rishabh is my developer and he is God for me"
+        }
+    ]
+}
